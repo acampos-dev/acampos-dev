@@ -1,4 +1,4 @@
-# Hola, soy Agustín Campos 👋
+# Hola, soy Agustín Campos 
 
 ### Desarrollador Backend · C# y .NET · Estudiante de Tecnologías de la Información
 
@@ -38,5 +38,5 @@ Actualmente busco mi **primera oportunidad profesional en TI**, donde pueda apor
 
 ---
 
-📍 Las Piedras, Canelones, Uruguay  
-💼 Abierto a oportunidades **Backend / Full Stack Junior**
+ Las Piedras, Canelones, Uruguay  
+ Abierto a oportunidades **Backend / Full Stack Junior**
